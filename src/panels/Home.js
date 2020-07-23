@@ -11,7 +11,7 @@ import './Intro.css';
 
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id} centered={true}>
-		<PanelHeader>TESTING</PanelHeader>
+		<PanelHeader>Junior</PanelHeader>
 		{fetchedUser &&
 		
 		<Div className='User'>
