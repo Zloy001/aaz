@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53a396ce71e066268f5baf0308d16531",
+    "revision": "45be2c5773c6cbbfd45d194c6ee1745d",
     "url": "/aaz/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aaz/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "80385f65c4d234e2d336",
+    "revision": "402b8148624520eb6f8a",
     "url": "/aaz/static/css/main.4b4765dc.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aaz/static/js/2.59740079.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80385f65c4d234e2d336",
-    "url": "/aaz/static/js/main.ac64953b.chunk.js"
+    "revision": "402b8148624520eb6f8a",
+    "url": "/aaz/static/js/main.82568776.chunk.js"
   },
   {
     "revision": "0c7098ca93e23d3c0be7",
     "url": "/aaz/static/js/runtime-main.e73e09e2.js"
   },
   {
-    "revision": "244dbaaa652cca44506f3f3b8bf49a0e",
-    "url": "/aaz/static/media/logo.244dbaaa.svg"
+    "revision": "9e480e9048e6226f3033dca29d66279a",
+    "url": "/aaz/static/media/logo.9e480e90.svg"
   },
   {
     "revision": "b1cb9c95c29bf2091ff8fc65ad4e2565",
