@@ -1,31 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0966cb5c42a0c870b02b6fd7b9927193",
+    "revision": "75cc6ff91bb1947010f14b57ea6c995b",
     "url": "/aaz/index.html"
   },
   {
-    "revision": "c8ced0a6fa182afb8ab7",
+    "revision": "ea62ce58194d99755cd8",
     "url": "/aaz/static/css/2.1e562f28.chunk.css"
   },
   {
-    "revision": "a6fcadfdf0a756822207",
+    "revision": "a32699ae7be7350e9c29",
     "url": "/aaz/static/css/main.82b47dcb.chunk.css"
   },
   {
-    "revision": "c8ced0a6fa182afb8ab7",
-    "url": "/aaz/static/js/2.aa701883.chunk.js"
+    "revision": "ea62ce58194d99755cd8",
+    "url": "/aaz/static/js/2.cff92fc7.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/aaz/static/js/2.aa701883.chunk.js.LICENSE.txt"
+    "url": "/aaz/static/js/2.cff92fc7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6fcadfdf0a756822207",
-    "url": "/aaz/static/js/main.b1c4bf96.chunk.js"
+    "revision": "a32699ae7be7350e9c29",
+    "url": "/aaz/static/js/main.c17d7b0b.chunk.js"
   },
   {
     "revision": "0c7098ca93e23d3c0be7",
     "url": "/aaz/static/js/runtime-main.e73e09e2.js"
+  },
+  {
+    "revision": "3e0e05f6e145b06363549556411b69af",
+    "url": "/aaz/static/media/android.3e0e05f6.svg"
+  },
+  {
+    "revision": "a4ab125b3335a353a932f00548024767",
+    "url": "/aaz/static/media/apple.a4ab125b.svg"
   },
   {
     "revision": "9e480e9048e6226f3033dca29d66279a",
