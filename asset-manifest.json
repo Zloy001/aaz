@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/aaz/static/css/main.b897afcf.chunk.css",
-    "main.js": "/aaz/static/js/main.aec856bb.chunk.js",
-    "main.js.map": "/aaz/static/js/main.aec856bb.chunk.js.map",
+    "main.css": "/aaz/static/css/main.0c7ef666.chunk.css",
+    "main.js": "/aaz/static/js/main.59e15139.chunk.js",
+    "main.js.map": "/aaz/static/js/main.59e15139.chunk.js.map",
     "runtime-main.js": "/aaz/static/js/runtime-main.e73e09e2.js",
     "runtime-main.js.map": "/aaz/static/js/runtime-main.e73e09e2.js.map",
-    "static/css/2.1e562f28.chunk.css": "/aaz/static/css/2.1e562f28.chunk.css",
-    "static/js/2.7573c544.chunk.js": "/aaz/static/js/2.7573c544.chunk.js",
-    "static/js/2.7573c544.chunk.js.map": "/aaz/static/js/2.7573c544.chunk.js.map",
+    "static/css/2.cdee455b.chunk.css": "/aaz/static/css/2.cdee455b.chunk.css",
+    "static/js/2.498f2f66.chunk.js": "/aaz/static/js/2.498f2f66.chunk.js",
+    "static/js/2.498f2f66.chunk.js.map": "/aaz/static/js/2.498f2f66.chunk.js.map",
     "index.html": "/aaz/index.html",
-    "precache-manifest.6c03f8e4e791051c146e57f54c88e43a.js": "/aaz/precache-manifest.6c03f8e4e791051c146e57f54c88e43a.js",
+    "precache-manifest.4d6aa19a640310c97d270f9b2c31b078.js": "/aaz/precache-manifest.4d6aa19a640310c97d270f9b2c31b078.js",
     "service-worker.js": "/aaz/service-worker.js",
-    "static/css/2.1e562f28.chunk.css.map": "/aaz/static/css/2.1e562f28.chunk.css.map",
-    "static/css/main.b897afcf.chunk.css.map": "/aaz/static/css/main.b897afcf.chunk.css.map",
-    "static/js/2.7573c544.chunk.js.LICENSE.txt": "/aaz/static/js/2.7573c544.chunk.js.LICENSE.txt",
+    "static/css/2.cdee455b.chunk.css.map": "/aaz/static/css/2.cdee455b.chunk.css.map",
+    "static/css/main.0c7ef666.chunk.css.map": "/aaz/static/css/main.0c7ef666.chunk.css.map",
+    "static/js/2.498f2f66.chunk.js.LICENSE.txt": "/aaz/static/js/2.498f2f66.chunk.js.LICENSE.txt",
     "static/media/android.svg": "/aaz/static/media/android.3e0e05f6.svg",
     "static/media/apple.svg": "/aaz/static/media/apple.a4ab125b.svg",
     "static/media/logo.svg": "/aaz/static/media/logo.9e480e90.svg",
@@ -21,9 +21,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e73e09e2.js",
-    "static/css/2.1e562f28.chunk.css",
-    "static/js/2.7573c544.chunk.js",
-    "static/css/main.b897afcf.chunk.css",
-    "static/js/main.aec856bb.chunk.js"
+    "static/css/2.cdee455b.chunk.css",
+    "static/js/2.498f2f66.chunk.js",
+    "static/css/main.0c7ef666.chunk.css",
+    "static/js/main.59e15139.chunk.js"
   ]
 }
